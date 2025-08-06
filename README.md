@@ -26,4 +26,9 @@ EX: para melhorar a confiabilidade de uma aplicação crítica, uma equipe pode 
 
 EX: performance e custo. É possível utilizar instâncias de alta performance com capacidade computacional superior para garantir tempos de resposta rápidos. Entretanto, isso pode ser desnecessário em momentos de baixa demanda, resultando em custos elevados. A alternativa pode ser implementar um sistema de auto scaling que ajuste dinamicamente os recursos conforme o uso. Isso introduz certa complexidade, mas equilibra performance e custo de forma mais eficiente.
 
+# Aula 06/08
 
+- Elastic comput clund
+
+- AWS shared responsibility model
+- IaaS / PaaS / Saas - existe mais, mas estes são os 3 basicos.
