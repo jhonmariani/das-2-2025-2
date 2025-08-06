@@ -2,9 +2,7 @@
 
 # Aula 30/07
 
-amazon SQS
-amazon EC2
-amazon S3
+amazon SQS / amazon EC2 / amazon S3
 
 - Well Architect Framework
 - Trade-off
