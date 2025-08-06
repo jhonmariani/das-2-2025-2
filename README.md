@@ -5,3 +5,6 @@
 amazon SQS
 amazon EC2
 amazon S3
+
+- Well Architect Framework
+- Trade-off
