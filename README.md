@@ -43,5 +43,6 @@ EX: performance e custo. É possível utilizar instâncias de alta performance c
 - resource basic policy
 - diferença entre os dois: resource tem que DEFINIR o usuario (principal)
 
-- ATIVADE
-modulo 02, 03
+- ATIVADE aws
+  
+  - modulo 02, 03
