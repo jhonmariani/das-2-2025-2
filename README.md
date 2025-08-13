@@ -38,3 +38,10 @@ EX: performance e custo. É possível utilizar instâncias de alta performance c
 - Cada usuario da AWS pode ter duas chaves para acessar, uma para programar e outra para acessar.
 - Cuidar usuario root, é a conta com privilégios máximos em sistemas operacionais.
 - Loga com root, habilita NFA. Cria outro usuario de trab, habilita NFA tambem e utiliza para o dia a dia. Para não vazar conta root.
+  
+- identity basic policy eu associo ela ao usuario dentro do IAM (serviço da AWS)
+- resource basic policy
+- diferença entre os dois: resource tem que DEFINIR o usuario (principal)
+
+- ATIVADE
+modulo 02, 03 e lab
