@@ -12,7 +12,7 @@ O framework é estruturado em seis pilares: excelência operacional, segurança,
 
 Já a eficiência de performance foca em usar recursos computacionais de maneira eficaz, ajustando a infraestrutura conforme a demanda e escolhendo as tecnologias adequadas para cada caso. O pilar de otimização de custos busca eliminar desperdícios e garantir que os recursos sejam utilizados com o melhor custo-benefício possível. Por fim, a sustentabilidade, adicionada mais recentemente ao framework, considera o impacto ambiental das workloads, incentivando decisões que reduzam o consumo de energia e melhorem a eficiência ecológica.
 
-Ao aplicar o este modele, as equipes podem identificar riscos e oportunidades de melhoria em suas arquiteturas, utilizando inclusive a ferramenta Well-Architected Tool, oferecida pela própria AWS, para realizar revisões sistemáticas. Em resumo, o framework ajuda organizações a criar soluções robustas e preparadas para o crescimento sustentável na nuvem.
+Ao aplicar o este modelo, as equipes podem identificar riscos e oportunidades de melhoria em suas arquiteturas, utilizando inclusive a ferramenta Well-Architected Tool, oferecida pela própria AWS, para realizar revisões sistemáticas. Em resumo, o framework ajuda organizações a criar soluções robustas e preparadas para o crescimento sustentável na nuvem.
   
 - Trade-off
 
