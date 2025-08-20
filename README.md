@@ -46,3 +46,6 @@ EX: performance e custo. É possível utilizar instâncias de alta performance c
 - ATIVADE aws
   
   - modulo 02, 03
+
+# Aula 20/08
+
