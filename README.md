@@ -44,8 +44,12 @@ EX: performance e custo. É possível utilizar instâncias de alta performance c
 - diferença entre os dois: resource tem que DEFINIR o usuario (principal)
 
 - ATIVADE aws
-  
   - modulo 02, 03
 
 # Aula 20/08
+
+# Aula 27/08
+
+amazon S3 inventory
+- gerar um arquivo de texto para usar, encontrar / gerenciar arquivos. Pode demorar até 1 dia para gerar tudo de tantos aquivos.
 
