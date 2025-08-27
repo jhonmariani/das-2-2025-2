@@ -48,10 +48,10 @@ EX: performance e custo. É possível utilizar instâncias de alta performance c
 
 # Aula 20/08
 
-Block Storage
-File Share
-Object Store
-S3 resumo geral
+- Block Storage
+- File Share
+- Object Store
+- S3 resumo geral
 
 # Aula 27/08
 
