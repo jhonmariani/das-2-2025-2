@@ -50,6 +50,12 @@ EX: performance e custo. É possível utilizar instâncias de alta performance c
 
 # Aula 27/08
 
+# Aula 10/09
+
+fsx for windows
+fsx for NETAPP
+fsx for openzfs
+fsx forluster HPC
 amazon S3 inventory
 - gerar um arquivo de texto para usar, encontrar / gerenciar arquivos. Pode demorar até 1 dia para gerar tudo de tantos aquivos.
 
