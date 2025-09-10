@@ -50,12 +50,22 @@ EX: performance e custo. É possível utilizar instâncias de alta performance c
 
 # Aula 27/08
 
+amazon S3 inventory
+- gerar um arquivo de texto para usar, encontrar / gerenciar arquivos. Pode demorar até 1 dia para gerar tudo de tantos aquivos.
+
+# Aula 03/09
+
+- Serviços computacionais da AWS (EC2)
+- Amazon Machine Images (AMI)
+- Tipos de Instâncias
+- Tipos de Storage (EBS/Instance Store)
+- Acesso via SSH
+
 # Aula 10/09
 
 fsx for windows
 fsx for NETAPP
 fsx for openzfs
 fsx forluster HPC
-amazon S3 inventory
-- gerar um arquivo de texto para usar, encontrar / gerenciar arquivos. Pode demorar até 1 dia para gerar tudo de tantos aquivos.
 
+https://awsacademy.instructure.com/courses/129676/assignments/1485164?module_item_id=12389242
