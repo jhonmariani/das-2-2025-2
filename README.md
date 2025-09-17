@@ -69,3 +69,14 @@ fsx for openzfs
 fsx forluster HPC
 
 https://awsacademy.instructure.com/courses/129676/assignments/1485164?module_item_id=12389242
+
+# Aula 17/09
+
+Placement groups
+
+é um recurso que controla a localização física das suas instâncias EC2 para otimizar a performance, a tolerância a falhas ou a escalabilidade, agrupando-as em um ou mais racks dentro de uma zona de disponibilidade, ou distribuindo-as por diferentes racks de forma consciente.
+
+placement strategies
+- cluster: baixa latência (instâncias juntas no mesmo rack) / (não tem alta disponibilidade)
+- partition: para aplicações que precisam de tolerância a falhas entre partições, como big data, em diferentes racks. 
+- spread: alta disponibilidade (instâncias em diferentes racks) / (perde perfomece, latencia)
