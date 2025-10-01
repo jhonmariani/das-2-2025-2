@@ -30,8 +30,10 @@ EX: performance e custo. É possível utilizar instâncias de alta performance c
 
 - Elastic comput clund
 
-- AWS shared responsibility model
+- AWS shared responsibility model: define quem é responsável pela segurança e conformidade na nuvem
 - IaaS / PaaS / Saas - existe mais, mas estes são os 3 basicos.
+- IAM User: é uma identidade permanente criada dentro do IAM (Identity and Access Management) da AWS.
+- IAM Role: é uma identidade temporária com permissões específicas.
   
 # Aula 13/08
 
@@ -43,10 +45,20 @@ EX: performance e custo. É possível utilizar instâncias de alta performance c
 - resource basic policy
 - diferença entre os dois: resource tem que DEFINIR o usuario (principal)
 
+https://awsacademy.instructure.com/courses/113113/assignments/1270651?module_item_id=10653588
+https://awsacademy.instructure.com/courses/113113/assignments/1270605?module_item_id=10653616
+https://awsacademy.instructure.com/courses/113113/assignments/1270652?module_item_id=10653624
+
 - ATIVADE aws
   - modulo 02, 03
 
 # Aula 20/08
+
+- Block Storage: funciona como se fosse um disco rígido ou SSD conectado à máquina, tipo de armazenamento é indicado para bancos de dados, sistemas operacionais e aplicações que precisam de alta performance e baixa latência.
+- File Share: é um armazenamento em forma de arquivos e pastas que pode ser acessado por vários servidores ou usuários, semelhante a um servidor de arquivos compartilhado em uma rede corporativa, sendo útil em ambientes de colaboração ou em aplicações que precisam de acesso simultâneo a um mesmo conjunto de dados.
+- Object Store: organiza os dados em objetos, cada um contendo o próprio arquivo, modelo altamente escalável e econômico, ideal para armazenar grandes volumes de dados não estruturados, como imagens, vídeos etc.
+
+https://awsacademy.instructure.com/courses/129676/assignments/1485129?module_item_id=12389220
 
 # Aula 27/08
 
@@ -63,6 +75,9 @@ amazon S3 inventory
 
 # Aula 10/09
 
+- Tipos de Storage (EBS/Instance Store)
+- EBS é um armazenamento em bloco persistente, ou seja, os dados permanecem mesmo que a instância EC2 seja desligada ou encerrada.
+- Instance Store é um armazenamento em bloco efêmero, ou seja, os dados são perdidos quando a instância é parada ou encerrada.
 fsx for windows
 fsx for NETAPP
 fsx for openzfs
@@ -80,3 +95,16 @@ placement strategies
 - cluster: baixa latência (instâncias juntas no mesmo rack) / (não tem alta disponibilidade)
 - partition: para aplicações que precisam de tolerância a falhas entre partições, como big data, em diferentes racks. 
 - spread: alta disponibilidade (instâncias em diferentes racks) / (perde perfomece, latencia)
+
+VPC
+- O que é uma VPC? rede virtual isolada dentro da AWS, você mesmo configura para hospedar seus recursos de forma segura. Como se fosse o seu próprio datacenter dentro da nuvem, mas com a flexibilidade de criar e gerenciar toda a estrutura de rede sem precisar de hardware físico.
+- Peering: conexão de rede que permite que duas VPCs diferentes se comuniquem entre si como se estivessem na mesma rede, feita de forma privada dentro da infraestrutura da AWS, sem passar pela internet pública.
+
+- Security Group: firewall que protege recursos individuais dentro da AWS. Funciona apenas permitindo tráfego, nunca negando. Suas regras são stateful, se você libera uma porta para entrada, a resposta de saída já é automaticamente permitida.
+- Network ACL (NACL): é um firewall aplicado no nível da sub-rede dentro da VPC. Pode tanto permitir quanto negar tráfego, obriga a configurar permissões separadas para entrada e saída.
+
+#24/09
+
+https://awsacademy.instructure.com/courses/129676/assignments/1485156?module_item_id=12389305
+https://awsacademy.instructure.com/courses/129676/assignments/1485132?module_item_id=12389306
+https://awsacademy.instructure.com/courses/129676/assignments/1485196?module_item_id=12389310
