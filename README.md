@@ -113,11 +113,16 @@ https://awsacademy.instructure.com/courses/129676/assignments/1485196?module_ite
 
 # Aula 08/10
 
-- RBAC x ABAC: RBAC: Acesso baseado em função (cargos) / ABAC: Acesso baseado em atributos (usuário, recurso, ambiente).
-- Identidade Federada: uma credencial (SSO) para acessar múltiplos serviços em domínios diferentes.
-- Criptografia Simétrica x Assimétrica: Simétrica: Uma única chave para criptografar e descriptografar. / Assimétrica: Duas chaves (pública/privada).
-- Detecção de vulnerabilidade estática: analisa o código-fonte do software sem executá-lo para encontrar falhas de segurança.
-- Detecção de intrusão: monitora a rede ou o sistema em busca de padrões de ataque e alerta sobre atividades maliciosas ou não autorizadas.
+- RBAC x ABAC:
+  - RBAC: Acesso baseado em função (cargos) / ABAC: Acesso baseado em atributos (usuário, recurso, ambiente).
+- Identidade Federada:
+  -  uma credencial (SSO) para acessar múltiplos serviços em domínios diferentes.
+- Criptografia Simétrica x Assimétrica:
+  -  Simétrica: Uma única chave para criptografar e descriptografar. / Assimétrica: Duas chaves (pública/privada).
+- Detecção de vulnerabilidade estática:
+  -  analisa o código-fonte do software sem executá-lo para encontrar falhas de segurança.
+- Detecção de intrusão:
+  -  monitora a rede ou o sistema em busca de padrões de ataque e alerta sobre atividades maliciosas ou não autorizadas.
 - https://awsacademy.instructure.com/courses/129676/assignments/1485154?module_item_id=12389321
 
 # Aula 15/10
