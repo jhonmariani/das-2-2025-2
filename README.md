@@ -108,3 +108,23 @@ VPC
 https://awsacademy.instructure.com/courses/129676/assignments/1485156?module_item_id=12389305
 https://awsacademy.instructure.com/courses/129676/assignments/1485132?module_item_id=12389306
 https://awsacademy.instructure.com/courses/129676/assignments/1485196?module_item_id=12389310
+
+# 2 BIMESTRE
+
+# Aula 08/10
+
+- RBAC x ABAC
+- Identidade Federada
+- Criptografia Simétrica x Assimétrica
+- Detecção de vulnerabilidade estática
+- Detecção de intrusão
+- https://awsacademy.instructure.com/courses/129676/assignments/1485154?module_item_id=12389321
+
+# Aula 15/10
+
+- métricas
+- logs
+- elasticidade
+- escalabilidade horizontal
+- balanceador de carga
+- https://awsacademy.instructure.com/courses/129676/assignments/1485152?module_item_id=12389382
