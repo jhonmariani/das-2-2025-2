@@ -113,18 +113,18 @@ https://awsacademy.instructure.com/courses/129676/assignments/1485196?module_ite
 
 # Aula 08/10
 
-- RBAC x ABAC
-- Identidade Federada
-- Criptografia Simétrica x Assimétrica
-- Detecção de vulnerabilidade estática
-- Detecção de intrusão
+- RBAC x ABAC: RBAC: Acesso baseado em função (cargos) / ABAC: Acesso baseado em atributos (usuário, recurso, ambiente).
+- Identidade Federada: uma credencial (SSO) para acessar múltiplos serviços em domínios diferentes.
+- Criptografia Simétrica x Assimétrica: Simétrica: Uma única chave para criptografar e descriptografar. / Assimétrica: Duas chaves (pública/privada).
+- Detecção de vulnerabilidade estática: analisa o código-fonte do software sem executá-lo para encontrar falhas de segurança.
+- Detecção de intrusão: monitora a rede ou o sistema em busca de padrões de ataque e alerta sobre atividades maliciosas ou não autorizadas.
 - https://awsacademy.instructure.com/courses/129676/assignments/1485154?module_item_id=12389321
 
 # Aula 15/10
 
-- métricas
-- logs
-- elasticidade
-- escalabilidade horizontal
-- balanceador de carga
+- métricas: medem a performance e o estado de um sistema
+- logs: registros de eventos sequenciais gerados por um sistema, usados para auditoria, depuração e rastreamento de atividades.
+- elasticidade: capacidade de um sistema de ajustar automaticamente seus recursos (aumentar ou diminuir) para acompanhar a demanda em tempo real.
+- escalabilidade horizontal: aumentar a capacidade do sistema adicionando mais máquinas (servidores, nós), distribuindo a carga entre eles.
+- balanceador de carga: distribui o tráfego de rede de entrada de forma eficiente entre um conjunto de servidores (pool), garantindo alta disponibilidade e desempenho.
 - https://awsacademy.instructure.com/courses/129676/assignments/1485152?module_item_id=12389382
