@@ -138,3 +138,13 @@ https://awsacademy.instructure.com/courses/129676/assignments/1485196?module_ite
 - balanceador de carga:
   -  distribui o tráfego de rede de entrada de forma eficiente entre um conjunto de servidores (pool), garantindo alta disponibilidade e desempenho.
 - https://awsacademy.instructure.com/courses/129676/assignments/1485152?module_item_id=12389382
+
+# Aula 22/10
+
+- Module 11: Automating Your Architecture
+- https://awsacademy.instructure.com/courses/129676/assignments/1485149?module_item_id=12389414
+
+# Aula 29/10
+
+- Module 12: Caching Content
+- https://awsacademy.instructure.com/courses/129676/assignments/1485174?module_item_id=12389441
