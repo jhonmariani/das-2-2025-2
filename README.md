@@ -148,3 +148,8 @@ https://awsacademy.instructure.com/courses/129676/assignments/1485196?module_ite
 
 - Module 12: Caching Content
 - https://awsacademy.instructure.com/courses/129676/assignments/1485174?module_item_id=12389441
+
+# Aula 05/11
+
+- Module 13: Building Decoupled Applications
+- https://awsacademy.instructure.com/courses/129676/assignments/1485150?module_item_id=12389450
