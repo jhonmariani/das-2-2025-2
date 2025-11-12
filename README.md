@@ -158,3 +158,7 @@ https://awsacademy.instructure.com/courses/129676/assignments/1485196?module_ite
 
 - Module 14: Building Serverless Architectures and Microservices
 - https://awsacademy.instructure.com/courses/129676/modules/items/12389475
+
+- 2 limites LAMBDA
+- tempo de execução 15 minutos
+- 10 gb de ram
