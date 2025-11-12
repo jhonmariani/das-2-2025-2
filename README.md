@@ -153,3 +153,8 @@ https://awsacademy.instructure.com/courses/129676/assignments/1485196?module_ite
 
 - Module 13: Building Decoupled Applications
 - https://awsacademy.instructure.com/courses/129676/assignments/1485150?module_item_id=12389450
+
+# Aula 12/11
+
+- Module 14: Building Serverless Architectures and Microservices
+- https://awsacademy.instructure.com/courses/129676/modules/items/12389475
